@@ -123,6 +123,11 @@ php artisan probabilistic:list
 
 Prints a table of every configured instance and its parameters, grouped by structure type. Empty groups are omitted.
 
+## Related packages
+
+- [probabilistic-php](https://github.com/pouya1364/probabilistic-php) — the core, framework-agnostic library with the algorithm documentation.
+- [probabilistic-bundle](https://github.com/pouya1364/probabilistic-bundle) — the equivalent integration for Symfony.
+
 ## Testing
 
 ```bash
